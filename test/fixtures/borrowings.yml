@@ -1,0 +1,7 @@
+overdue_borrowing:
+  user: student
+  book: two
+  borrowed_at: <%= 20.days.ago %>
+  due_at: <%= 6.days.ago %>
+  status: borrowed
+  returned_at: 

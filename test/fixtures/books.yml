@@ -1,0 +1,15 @@
+one:
+  title: Clean Code
+  author: Robert Martin
+  isbn: ISBN-001
+  genre: Programming
+  total_copies: 5
+  available_copies: 5
+
+two:
+  title: Pragmatic Programmer
+  author: Andy Hunt
+  isbn: ISBN-002
+  genre: Programming
+  total_copies: 2
+  available_copies: 2
